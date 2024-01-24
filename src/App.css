@@ -24,10 +24,10 @@ body{
   align-items: center;
   margin: 2rem;
 }
-.Nav .toggle{
-  /* display: none; */
+/* .Nav .toggle{
+  display: none;
 
-}
+} */
 .Nav .desk .logo{
   display: flex;
   gap: .5rem;

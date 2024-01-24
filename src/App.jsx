@@ -7,7 +7,7 @@ import Clearlink from './components/Clearlink'
 import Shopify from './components/Shopify'
 import Faq from './components/Faq'
 import Last from './components/Last'
-import Footer from './components/footer'
+import Footer from './components/Footer'
 
 
 function App() {
